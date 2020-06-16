@@ -1,0 +1,15 @@
+.carousel-item{
+    height: 500px;
+}
+nav, footer{
+    font-family: 'Pacifico', cursive;
+}
+.contact, .about, .info{
+    border-left: 1px solid rgb(0, 0, 0);
+    background: rgba(255, 115, 0, 0.623);
+    padding: 1.5rem;
+    margin-top: 1.5rem;
+}
+html{
+    background-color: rgb(255, 216, 132);
+}
